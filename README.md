@@ -94,7 +94,7 @@ Users can log in with their ID, username, and password to view their details.
 
 # User Menu:
 
-1. Show Identity : Allows users to view their own details after logging in with their credentials
+`1. Show Identity :` Allows users to view their own details after logging in with their credentials
 
-3. Exit User Mode : Exit The User Mode And Go To Main Manu.
+`3. Exit User Mode :` Exit The User Mode And Go To Main Manu.
 
