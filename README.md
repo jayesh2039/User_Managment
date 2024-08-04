@@ -30,8 +30,8 @@ User Mode: Allows users to view their own details after logging in with their cr
 
 # How to Use
 
---> Prerequisites
+--> Prerequisites : 
 Install the cryptography library: pip install cryptography
 
-Running the Script
+--> Running the Script :
 Save the script to a file named user_management.py and run it using Python:
