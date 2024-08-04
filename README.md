@@ -34,4 +34,6 @@ User Mode: Allows users to view their own details after logging in with their cr
 Install the cryptography library: pip install cryptography
 
 --> Running the Script :
-Save the script to a file named user_management.py and run it using Python:
+Save the script to a file named user_management.py and run it using Python
+
+`python user_management.py`
