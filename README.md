@@ -31,9 +31,18 @@ User Mode: Allows users to view their own details after logging in with their cr
 # How to Use
 
 --> Prerequisites : 
-Install the cryptography library: pip install cryptography
+Install the cryptography library: `pip install cryptography`
 
 --> Running the Script :
-Save the script to a file named user_management.py and run it using Python
+Save the script to a file named `user_management.py` and run it using Python
 
 `python user_management.py`
+
+# Main Menu
+After running the script, you will see the main menu:
+
+`Main Menu:`
+`1. Admin Login`
+`2. User Login`
+`3. Exit`
+`Enter Your Choice (1-3):`
