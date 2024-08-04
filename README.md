@@ -42,7 +42,11 @@ Save the script to a file named `user_management.py` and run it using Python
 After running the script, you will see the main menu:
 
 `Main Menu:`
+
 `1. Admin Login`
+
 `2. User Login`
+
 `3. Exit`
+
 `Enter Your Choice (1-3):`
