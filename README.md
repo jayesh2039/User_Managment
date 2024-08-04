@@ -25,4 +25,13 @@ The script provides functions to add, update, delete, and display user details. 
 
 8. Admin and User Modes :
 Admin Mode: Allows administrators to add, view, update, and delete user details, as well as backup data.
+
 User Mode: Allows users to view their own details after logging in with their credentials.
+
+# How to Use
+
+--> Prerequisites
+Install the cryptography library: pip install cryptography
+
+Running the Script
+Save the script to a file named user_management.py and run it using Python:
