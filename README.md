@@ -50,3 +50,51 @@ After running the script, you will see the main menu:
 `3. Exit`
 
 `Enter Your Choice (1-3):`
+
+# Admin Login
+Use the default admin credentials:
+
+Username: `admin`
+
+Password: `admin`
+
+After logging in, you can access the following admin menu:
+
+`Admin Menu:`
+
+`1. Add User`
+
+`2. Show User Details`
+
+`3. Update User Details`
+
+`4. Delete User`
+
+`5. Backup Data`
+
+`6. Exit Admin Mode`
+
+# Adding a User
+Follow the prompts to add a new user. A unique Aadhaar number will be generated for each user.
+
+# Viewing User Details
+Select a user ID to view their details.
+
+# Updating User Details
+Select a user ID and the field to update (Name, Number, DOB, Gender, Address, Email, Role, Username, Password).
+
+# Deleting a User
+Select a user ID to delete the user from the system.
+
+# Data Backup
+Creates a backup of user data in a file named backup.json.
+
+# User Login
+Users can log in with their ID, username, and password to view their details.
+
+# User Menu:
+
+1. Show Identity : Allows users to view their own details after logging in with their credentials
+
+3. Exit User Mode : Exit The User Mode And Go To Main Manu.
+
